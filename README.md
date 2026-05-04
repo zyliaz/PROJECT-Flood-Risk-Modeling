@@ -36,10 +36,18 @@ The estimation pipeline runs in two steps:
 
 ## How to Run
 
-1. Clone the repository and activate the project virtual environment.
-2. Open and run [`model/02_loss_estimation_model.ipynb`](model/02_loss_estimation_model.ipynb) in Jupyter.
+To get started, open this repository on your local machine using one of the following methods:
 
+1. Clone this repository:
+   ```bash    git clone https://github.com/zyliazhang/PROJECT-flood-risk-modeling.git    cd PROJECT-flood-risk-modeling```
+
+2. Install the required dependencies:
+   ```bash    pip install -r requirements.txt    ```
+
+3. Open and run the notebook:
+      [model/02_loss_estimation_model.ipynb](model/02_loss_estimation_model.ipynb)   
 ---
+
 ## Results and Discussion
 **Key Findings**
 - 58% of estimated total flood losses across 5 Eastern NC counties from 1996 to 2018 went uninsured — approximately $271 million out of $468 million total.
