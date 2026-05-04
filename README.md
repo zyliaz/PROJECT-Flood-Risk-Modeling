@@ -18,8 +18,8 @@ Detailed data cleaning notes can be found at [`data/data cleaning notes.md`](dat
 
 The estimation pipeline runs in two steps:
 
-Step 1 Loss ratio prediction using Random Forest
-Step 2 Uninsured Loss Estimation Model
+- Step 1 Loss ratio prediction using Random Forest
+- Step 2 Uninsured Loss Estimation Model
 
 ---
 
